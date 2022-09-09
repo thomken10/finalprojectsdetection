@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Vincent</folder>
+	<filename>vincent_dia_2.jpg</filename>
+	<path>D:\ITHB\Semester 8\Tugas Akhir\Dataset\dataset_labeled\Vincent\vincent_dia_2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>560</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dia</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>57</xmin>
+			<ymin>162</ymin>
+			<xmax>208</xmax>
+			<ymax>472</ymax>
+		</bndbox>
+	</object>
+</annotation>

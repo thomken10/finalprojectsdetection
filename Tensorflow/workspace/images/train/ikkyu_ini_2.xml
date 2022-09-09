@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ikkyu</folder>
+	<filename>ikkyu_ini_2.jpg</filename>
+	<path>D:\ITHB\Semester 8\Tugas Akhir\Dataset\dataset_labeled\Ikkyu\ikkyu_ini_2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>560</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ini</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>143</xmin>
+			<ymin>316</ymin>
+			<xmax>402</xmax>
+			<ymax>513</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ikkyu</folder>
+	<filename>ikkyu_siapa_1.jpg</filename>
+	<path>D:\ITHB\Semester 8\Tugas Akhir\Dataset\dataset_labeled\Ikkyu\ikkyu_siapa_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>560</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>siapa</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>129</xmin>
+			<ymin>195</ymin>
+			<xmax>220</xmax>
+			<ymax>522</ymax>
+		</bndbox>
+	</object>
+</annotation>

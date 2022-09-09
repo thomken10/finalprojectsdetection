@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Wei</folder>
+	<filename>wei_dia_1.jpg</filename>
+	<path>D:\ITHB\Semester 8\Tugas Akhir\Dataset\dataset_labeled\Wei\wei_dia_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>560</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dia</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>67</xmin>
+			<ymin>185</ymin>
+			<xmax>189</xmax>
+			<ymax>514</ymax>
+		</bndbox>
+	</object>
+</annotation>

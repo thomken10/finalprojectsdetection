@@ -1,0 +1,80 @@
+item { 
+	name:'aku'
+	id:1
+}
+item { 
+	name:'bicara'
+	id:2
+}
+item { 
+	name:'bisa'
+	id:3
+}
+item { 
+	name:'hai'
+	id:4
+}
+item { 
+	name:'kamu'
+	id:5
+}
+item { 
+	name:'kita'
+	id:6
+}
+item { 
+	name:'pagi'
+	id:7
+}
+item { 
+	name:'sama'
+	id:8
+}
+item { 
+	name:'tidak'
+	id:9
+}
+item { 
+	name:'ya'
+	id:10
+}
+item { 
+	name:'apa'
+	id:11
+}
+item { 
+	name:'dengar'
+	id:12
+}
+item { 
+	name:'dia'
+	id:13
+}
+item { 
+	name:'duduk'
+	id:14
+}
+item { 
+	name:'ini'
+	id:15
+}
+item { 
+	name:'makan'
+	id:16
+}
+item { 
+	name:'pergi'
+	id:17
+}
+item { 
+	name:'pulang'
+	id:18
+}
+item { 
+	name:'siapa'
+	id:19
+}
+item { 
+	name:'tidur'
+	id:20
+}

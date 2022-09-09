@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Vincent</folder>
+	<filename>vincent_ini_5.jpg</filename>
+	<path>D:\ITHB\Semester 8\Tugas Akhir\Dataset\dataset_labeled\Vincent\vincent_ini_5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>560</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ini</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>107</xmin>
+			<ymin>313</ymin>
+			<xmax>356</xmax>
+			<ymax>453</ymax>
+		</bndbox>
+	</object>
+</annotation>

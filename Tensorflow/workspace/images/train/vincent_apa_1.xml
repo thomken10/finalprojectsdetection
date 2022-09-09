@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Vincent</folder>
+	<filename>vincent_apa_1.jpg</filename>
+	<path>D:\ITHB\Semester 8\Tugas Akhir\Dataset\dataset_labeled\Vincent\vincent_apa_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>560</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>apa</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>47</xmin>
+			<ymin>282</ymin>
+			<xmax>242</xmax>
+			<ymax>527</ymax>
+		</bndbox>
+	</object>
+</annotation>

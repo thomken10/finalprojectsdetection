@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Stella</folder>
+	<filename>stella_pergi_1.jpg</filename>
+	<path>D:\ITHB\Semester 8\Tugas Akhir\Dataset\dataset_labeled\Stella\stella_pergi_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>560</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pergi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>127</xmin>
+			<ymin>338</ymin>
+			<xmax>403</xmax>
+			<ymax>491</ymax>
+		</bndbox>
+	</object>
+</annotation>

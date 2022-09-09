@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Vincent</folder>
+	<filename>vincent_pulang_3.jpg</filename>
+	<path>D:\ITHB\Semester 8\Tugas Akhir\Dataset\dataset_labeled\Vincent\vincent_pulang_3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>560</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pulang</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>88</xmin>
+			<ymin>303</ymin>
+			<xmax>391</xmax>
+			<ymax>504</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Wei</folder>
+	<filename>wei_tidur_5.jpg</filename>
+	<path>D:\ITHB\Semester 8\Tugas Akhir\Dataset\dataset_labeled\Wei\wei_tidur_5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>560</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tidur</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>154</xmin>
+			<ymin>242</ymin>
+			<xmax>362</xmax>
+			<ymax>516</ymax>
+		</bndbox>
+	</object>
+</annotation>
